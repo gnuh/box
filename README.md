@@ -15,11 +15,18 @@ Local LAMP Stack for Vagrant Box
 
 # MySQL Tutorial
 Standard TCP/IP over SSH
+
 SSH Hostname: 192.168.33.10
+
 SSH Username: vagrant
+
 SSH Password: vagrant
 
 MySQL Hostname: 127.0.0.1
+
 MySQL Server Port: 3306
+
 Username: root
+
 Password: root
+
