@@ -7,3 +7,19 @@ Local LAMP Stack for Vagrant Box
 * PHP 7.3
 * MySQL 5.7.3
 * Apache2
+
+# USAGE
+- git clone https://github.com/gnuh/box.git
+- vagrant up
+- http://192.168.33.10/
+
+#MySQL
+Standard TCP/IP over SSH
+SSH Hostname: 192.168.33.10
+SSH Username: vagrant
+SSH Password: vagrant
+
+MySQL Hostname: 127.0.0.1
+MySQL Server Port: 3306
+Username: root
+Password: root
