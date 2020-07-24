@@ -13,7 +13,7 @@ Local LAMP Stack for Vagrant Box
 - vagrant up
 - http://192.168.33.10/
 
-#MySQL
+# MySQL
 Standard TCP/IP over SSH
 SSH Hostname: 192.168.33.10
 SSH Username: vagrant
